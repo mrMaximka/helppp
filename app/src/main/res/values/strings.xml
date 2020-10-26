@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="txt_artic_header">заголовок</string>
+    <string name="countPhoto">40</string>
+    <string name="live">LIVE</string>
+    <string name="live_end">Трансляция окончена</string>
+    <string name="live_start"> </string>
+
+</resources>
